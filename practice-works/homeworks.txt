@@ -1,0 +1,5 @@
+En este archivo encuentras las tareas de práctica para casa.
+
+*************************************************************************************************
+1) Realiza un programa que use estructuras y que te pida datos por terminal (parte real e imaginara) 
+para calcular el módulo de un número complejo y que muestre la forma polar del mismo complejo.
