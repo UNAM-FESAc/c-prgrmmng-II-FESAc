@@ -1,5 +1,9 @@
 En este archivo encuentras las tareas de práctica para casa.
 
 *************************************************************************************************
+2) Realiza un programa, que use estructuras, que tome las coordenadas de tres puntos y calcula 
+    la distancia entre cada uno de ellos. Considera que las coordenadas pueden estar en diferentes 
+    cuadrantes del plano cartesiano.
+
 1) Realiza un programa que use estructuras y que te pida datos por terminal (parte real e imaginara) 
-para calcular el módulo de un número complejo y que muestre la forma polar del mismo complejo.
+    para calcular el módulo de un número complejo y que muestre la forma polar del mismo complejo.
