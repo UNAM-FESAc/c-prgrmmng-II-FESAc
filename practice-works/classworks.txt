@@ -1,8 +1,11 @@
-5) Realiza un documento donde escribas las diferencias o cualidades entre los tipos de variables union, struct y typedef. 
+6) Realiza un documento donde escribas las diferencias o cualidades entre los tipos de variables union, struct y typedef. 
     No olvides colocarlo en tu repositorio de tareas y agregar los archivos fuente.
-4) Realiza un programa que implemente la typedef para capturar, al menos, tres datos de diferente tipo para 
+5) Realiza un programa que implemente la typedef para capturar, al menos, tres datos de diferente tipo para 
     los estudiantes del curso y que al final los muestre en pantalla (implementa un for).
-3) Realiza el mismo programa del ejercicio anterior (2) e discute tus resultados. 
-2) En las variables de tipo union solamente podemos acceder en uno de sus miembros cada vez. Para demostrar esta aseveración, 
+4) Realiza el mismo programa del ejercicio anterior (2) e discute tus resultados. 
+3) En las variables de tipo union solamente podemos acceder en uno de sus miembros cada vez. Para demostrar esta aseveración, 
     realiza un programa que contenga una variable de tipo union para almacenar los datos de un estudiante, por ejemplo.  
-1) Realiza un programa que calcule el tamaño de una variable de tipo estructura y de una variable de tipo union que sean iguales.
+2) Realiza un programa que calcule el tamaño de una variable de tipo estructura y de una variable de tipo union que sean iguales.
+1) Modifica el programa partI/10estruc.c para que tome dos numero complejos y le realice las operaciones suma, resta y 
+    multiplicación; además que calcule el modulo de cada uno de los números complejos ingresados. Implementa funciones 
+    creadas por el usuario.
