@@ -1,7 +1,7 @@
 7) Realiza el mismo programa anterior (6), usando funciones implementada por el usuario donde el argumento sea 
    un puntero.
 6) Realiza un programa que implemente apuntadores para realizar la suma, la resta, división y multiplicación 
-   de tres variables de tipo entero y que imprima la dirección de memoria de cada una de ellas.
+   de tres variables de tipo entero y que imprima la dirección de memoria de cada resultado.
  
 
 *********************************************************************
