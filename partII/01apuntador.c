@@ -1,3 +1,7 @@
+/*
+Veamos otro operador de direcciones de memoria
+*/
+
 #include <stdio.h>
 
 void intercambio(int *a, int *b){ 
@@ -16,3 +20,8 @@ printf("i=%d y j=%d\n", i,j);
 
 return 0; 
 }
+
+/*
+El operador * lee o modifica el valor apuntado
+
+*/
