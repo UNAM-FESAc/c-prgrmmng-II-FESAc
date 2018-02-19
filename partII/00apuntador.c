@@ -1,18 +1,14 @@
 #include <stdio.h>
+#define N 5
+int main () {
 
-void intercambio(int *a, int *b){ 
-int aux = *a;
-*a=*b; 
-*b=aux;
-}
+   int  var1, i;
+   char var2[N];
 
-int main(){
-int i=3, j=50;
-
-printf("i=%d y j=%d\n", i,j); 
-intercambio(&i, &j); 
-
-printf("i=%d y j=%d\n", i,j);
-
-return 0; 
+   printf("Direccion de la variable var1: %x\n", &var1  );
+   printf("Direccion de la variable var2: %x\n", &var2  );
+for(i=0; i<N; i++){
+   printf("Direccion de la variable var2[%i]: %x\n", i, &var2[i]  );
+   }
+   return 0;
 }
