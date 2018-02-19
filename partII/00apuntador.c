@@ -1,3 +1,7 @@
+/*
+Recoerdemos el uso de un operador de memoria
+*/
+
 #include <stdio.h>
 #define N 5
 int main () {
