@@ -1,6 +1,10 @@
+9) Realice un programa que implmente una funcion para que, usando paso por referencia con un argumento apuntador, tomando un valor por consola, calcule el cubo de un numero.
+
+8) Escriba un programa, que implemente punteros, que capture una temperatura y que muestre la temperatura en diferentes sistemas de unidades.
+
 7) Realiza el mismo programa anterior (6), usando funciones implementada por el usuario donde el argumento sea 
    un puntero.
-6) Realiza un programa que implemente apuntadores para realizar la suma, la resta, división y multiplicación 
+6) Escriba un programa que implemente apuntadores para realizar la suma, la resta, división y multiplicación 
    de tres variables de tipo entero y que imprima la dirección de memoria de cada resultado.
  
 
@@ -16,3 +20,5 @@
 1) Modifica el programa partI/10estruc.c para que tome dos numero complejos y le realice las operaciones suma, resta y 
     multiplicación; además que calcule el módulo de cada uno de los números complejos ingresados. Implementa funciones 
     creadas por el usuario.
+*************************************************************************************************************************
+Este texto no contiene acentos (puede que haya puesto algunos).
