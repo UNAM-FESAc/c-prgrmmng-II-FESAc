@@ -1,3 +1,7 @@
+10) Escriba un programa que analice una linea de texto y calcule el numero de vocales, 
+    consonantes, caracteres y espacios en blancos; y los muestre en pantalla. 
+    Debe usar funcion con argumentos de diferente tipo de variables apuntador para 
+    realizar este trabajo. Use while e if-else
 9) Realice un programa que implmente una funcion para que, usando paso por referencia 
    con un argumento apuntador, tomando un valor por consola, calcule el cubo de un numero.
 
@@ -10,7 +14,7 @@
    de tres variables de tipo entero y que imprima la dirección de memoria de cada resultado.
  
 
-*********************************************************************
+************************************************************************************************************************
 5) Realiza un documento donde escribas las diferencias o cualidades entre los tipos de variables union, struct y typedef. 
     No olvides colocarlo en tu repositorio de tareas y agregar los archivos fuente.
 4) Realiza un programa que implemente la palabra typedef para capturar, al menos, tres datos de diferente tipo para 
