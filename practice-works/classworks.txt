@@ -1,7 +1,10 @@
-10) Escriba un programa que analice una linea de texto y calcule el numero de vocales, 
+11) Escriba un programa que analice una linea de texto y calcule el numero de vocales, 
     consonantes, caracteres y espacios en blancos; y los muestre en pantalla. 
     Debe usar funcion con argumentos de diferente tipo de variables apuntador para 
-    realizar este trabajo. Use while e if-else
+    realizar este trabajo. Use while e if-else.
+10) Escriba un programa que tenga con una funcion que tenga argumentos 
+    con variables apuntadores y no apuntadores para realizar intercambio 
+    de información y que calcule un sueldo más algunos beneficios de un trabajador.    
 9) Realice un programa que implmente una funcion para que, usando paso por referencia 
    con un argumento apuntador, tomando un valor por consola, calcule el cubo de un numero.
 
