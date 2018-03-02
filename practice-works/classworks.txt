@@ -2,10 +2,11 @@
     consonantes, caracteres y espacios en blancos; y los muestre en pantalla. 
     Debe usar funcion con argumentos de diferente tipo de variables apuntador para 
     realizar este trabajo. Use while e if-else.
-10) Escriba un programa que tenga con una funcion que tenga argumentos 
-    con variables apuntadores y no apuntadores para realizar intercambio 
-    de información y que calcule un sueldo más algunos beneficios de un trabajador.    
-9) Realice un programa que implmente una funcion para que, usando paso por referencia 
+10) Escriba un programa que tenga una funcion con argumentos 
+    de variables apuntadores y no apuntadores para realizar intercambio 
+    de información y que calcule un sueldo más algunos beneficios de un trabajador 
+    de una empresa.    
+9) Realice un programa que implemente una funcion para que, usando paso por referencia 
    con un argumento apuntador, tomando un valor por consola, calcule el cubo de un numero.
 
 8) Escriba un programa, que implemente punteros, que capture una temperatura y que 
