@@ -1,5 +1,5 @@
 /*
-Implementa documentacion interna
+Ejercicio: implementa documentacion interna
 */
 
 #include <stdio.h>
