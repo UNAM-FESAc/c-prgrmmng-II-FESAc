@@ -1,5 +1,5 @@
-13) Realice una investigación de la función getline(a,b,c) e implemente un ejemplo 
-    con un archivo externo. No olvide subir el código y un archivo PDF explicando 
+13) Realice una investigación de la función getline(a,b,c) (será necesario implementar un apuntador) 
+    e implemente un ejemplo con un archivo externo. No olvide subir el código y un archivo PDF explicando 
     lo investigado.
 12) Escriba un programa que incluya un define N (igual al número que usted desee); 
     dentro de la funcion principal declare una variable-arreglo de tipo char de 
