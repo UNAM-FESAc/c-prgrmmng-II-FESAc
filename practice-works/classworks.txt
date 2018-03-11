@@ -1,6 +1,8 @@
-13) Realice una investigación de la función getline(a,b,c) (será necesario implementar un apuntador) 
+14) Realice una investigación de la función getline(a,b,c) (será necesario implementar un apuntador) 
     e implemente un ejemplo con un archivo externo. No olvide subir el código y un archivo PDF explicando 
     lo investigado.
+13) Usa el codigo partII/Ejer13-desviacionEstandar.c de tal forma que use apuntadores y al menos tres funciones de memoria 
+dinamica. El codigo debe calucular la desviacion estandar y escribir el significado.
 12) Escriba un programa que incluya un define N (igual al número que usted desee); 
     dentro de la funcion principal declare una variable-arreglo de tipo char de 
     tamaño N y luego declare una función que calculará la longitud de una cadena. 
@@ -9,11 +11,11 @@
     definida por el usuario. El argumento de dicha función debe ser una variable-
     arreglo de tipo char y dentro, usando el identificador del apuntador, debe 
     realizar el conteo de los caracteres de la cadena dada.  
-************************************************************************************************************************
 11) Escriba un programa que analice una linea de texto y calcule el numero de vocales, 
     consonantes, caracteres y espacios en blancos; y los muestre en pantalla. 
     Debe usar funcion con argumentos de diferente tipo de variables apuntador para 
     realizar este trabajo. Use while e if-else.
+************************************************************************************************************************
 10) Escriba un programa que tenga una funcion con argumentos 
     de variables apuntadores y no apuntadores para realizar intercambio 
     de información y que calcule un sueldo más algunos beneficios de un trabajador 
