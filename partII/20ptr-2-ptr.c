@@ -1,7 +1,3 @@
-/*
-Ejercicio: implementa documentacion interna
-*/
-
 #include <stdio.h>
 
 int main() 
@@ -11,9 +7,7 @@ int main()
 	float * ptr_a = &a;
 	float ** ptr_ptr_a = &ptr_a;
 
-printf("El apuntador de un apuntador: ** ptr_ptr_a = %f\n", ** ptr_ptr_a);
+printf("El apuntador de un apuntador = %f\n",  ** ptr_ptr_a);
 
-
-    return 0;
+return 0;
 }
-
