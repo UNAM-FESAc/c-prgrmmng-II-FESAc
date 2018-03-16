@@ -1,7 +1,5 @@
 
-15) 
-
-Implementa una de las siguientes funciones en un archivo de no mas de 30 lineas de codigo.
+15)  Implementa una de las siguientes funciones en un archivo de no mas de 30 lineas de codigo.
 
 		fputs
 		fwrite
@@ -11,6 +9,9 @@ Implementa una de las siguientes funciones en un archivo de no mas de 30 lineas 
 		fgetc
 		fgets
 		fread
+
+No olvides agregar funciones de gestión dinámica de memoria, variables apuntadores.
+
 
 14) Realice una investigación de la función getline(a,b,c) (será necesario implementar un apuntador) 
     e implemente un ejemplo con un archivo externo. No olvide subir el código y un archivo PDF explicando 
