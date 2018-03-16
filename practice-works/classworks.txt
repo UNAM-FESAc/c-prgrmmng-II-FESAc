@@ -1,18 +1,26 @@
+17) Implementa dos archivos: uno de entrada (en las directivas del preprocesador) y uno de salida para que tome 
+	dos datos (numeros) y les aplique las operaciones aritméticas básicas y, esos resultados, los imprima 
+	en un archivo de salida (.txt). Realice el mismo ejercicio, pero que los resultados de salida sean diferentes; 
+	por ejemplo: suma.txt,..,resta.txt, etc.
+	
+16)  Usa el archivo partII/29-ptr-multarray y el ejercicio anterior (15) para enviar la salida (las operaciones de matrices) 
+	a un archivo de extensión .txt.
 
 15)  Implementa una de las siguientes funciones en un archivo de no mas de 30 lineas de codigo.
 
 		fputs
 		fwrite
 		fprintf
+		m/c/realloc 
+		free
 		
-	y usa, al menos, una de las siguientes funciones:
+	y usa, al menos, dos de las siguientes funciones:
 		fgetc
 		fgets
 		fread
-
-No olvides agregar funciones de gestión dinámica de memoria, variables apuntadores.
-
-
+		
+Y cambia los parámetros de la función fopen().
+************************************************************************************************************************
 14) Realice una investigación de la función getline(a,b,c) (será necesario implementar un apuntador) 
     e implemente un ejemplo con un archivo externo. No olvide subir el código y un archivo PDF explicando 
     lo investigado.
