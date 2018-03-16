@@ -1,3 +1,17 @@
+
+15) 
+
+Implementa una de las siguientes funciones en un archivo de no mas de 30 lineas de codigo.
+
+		fputs
+		fwrite
+		fprintf
+		
+	y usa, al menos, una de las siguientes funciones:
+		fgetc
+		fgets
+		fread
+
 14) Realice una investigación de la función getline(a,b,c) (será necesario implementar un apuntador) 
     e implemente un ejemplo con un archivo externo. No olvide subir el código y un archivo PDF explicando 
     lo investigado.
