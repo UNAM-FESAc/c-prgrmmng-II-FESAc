@@ -1,6 +1,13 @@
 En este archivo encuentras las tareas de práctica para casa.
 
 *************************************************************************************************
+
+4) Realiza una investigacion sobre archivos binarios, implementa funciones, y escribe un codigo 
+    que realice una tarea especifica. Escribe un reporte y coloca, el archivo fuente y el PDF, 
+    en tu repositorio.
+3) Realiza un o mas programas que implementen y expliquen las funciones fwrite, fread, y fseek 
+    No olvides subirlo a tu repositorio.
+*************************************************************************************************
 2) Realiza un programa, que use estructuras, que tome las coordenadas de tres puntos y calcula 
     la distancia entre cada uno de ellos. Considera que las coordenadas pueden estar en diferentes 
     cuadrantes del plano cartesiano.
