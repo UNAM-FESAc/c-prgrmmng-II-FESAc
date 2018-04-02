@@ -18,7 +18,7 @@ https://colleaders.wordpress.com/
 	dos datos (numeros) y les aplique las operaciones aritméticas básicas y, esos resultados, los imprima 
 	en un archivo de salida (.txt). Realice el mismo ejercicio, pero que los resultados de salida sean diferentes; 
 	por ejemplo: suma.txt,..,resta.txt, etc.
-	
+************************************************************************************************************************	
 16)  Usa el archivo partII/29-ptr-multarray y el ejercicio anterior (15) para enviar la salida (las operaciones de matrices) 
 	a un archivo de extensión .txt.
 
