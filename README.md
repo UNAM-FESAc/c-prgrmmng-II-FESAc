@@ -1,5 +1,4 @@
-# Welcome to 
-## c-prgrmmng-II-FESAc
+# Welcome to c-prgrmmng-II-FESAc
 
 This repository contains information on programming II course for FESAc students.
 
