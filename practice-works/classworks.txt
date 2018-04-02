@@ -1,3 +1,19 @@
+21) Escriba un programa que tome una cadena en mayuscula desde la consola y la guarde en un archivo en minuscula.
+
+20) Escriba un programa que tome una cadena de un archivo y cuente: las vocales, consonante, espacios y caracteres; y guarde esta informacion en un archivo.
+
+19) Escriba un programa que tome una cadena desde la terminal y guarde la cadena invertida en un archivo de 
+texto.
+
+18) El grupo se divide en 6 
+(en la manana y 3 en la tarde) grupos, toman 
+el contenido del sitio:
+
+https://www.sanfoundry.com/c-programming-examples-file-handling/
+
+y lo desarrollan, deben crear material nuevo que se pueda colocar en el blog:
+https://colleaders.wordpress.com/
+
 17) Implementa dos archivos: uno de entrada (en las directivas del preprocesador) y uno de salida para que tome 
 	dos datos (numeros) y les aplique las operaciones aritméticas básicas y, esos resultados, los imprima 
 	en un archivo de salida (.txt). Realice el mismo ejercicio, pero que los resultados de salida sean diferentes; 
