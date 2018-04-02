@@ -1,2 +1,3 @@
 # Practicas con archivos
-[En este liga](https://www.dropbox.com/s/b491ruz4se4q8n3/gral-templete.pdf?dl=0) o <goo.gl/VNnvVw>
+[En este liga](goo.gl/iFsbxf) o <goo.gl/iFsbxf>, encuentran el archivo para realizar una práctica 
+en el laboratorio.
