@@ -1,5 +1,5 @@
-En este archivo encuentras las tareas de práctica para casa.
-
+## En este archivo encuentras las tareas de práctica para casa.
+# Considera que están en orden descendente (arriba-abajo van de mayor a menor)
 
 6 Considera el ejemplo 15.5 página 92 del documento guión del curso.
 6.1 Implementa documentación interna.
