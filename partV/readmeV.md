@@ -15,9 +15,10 @@ Este es un sistema de composición de documentos (hay mucha información en la r
 
 ### Python
 En sistemas operativos UNIX (el estudiante deberá leer un poco más sobre la historia, etc.), este lenguaje de programación 
-viene instalado desde el inicio. Sin embargo, para Windows deberás instalarlo desde [aquí](https://www.python.org/downloads/windows/). La versión 2.7, ha funcionado bien en los equipos con Ubuntu 16.04 y IOS X El Capitan y Sierra, pero es posible 
-que te enfrentes con retos que pueden quitarte el sueño, no te desesperes y busca soluciones a los problemas; no obstante, 
-en mi experiencia (corta con windows), los sistemas de Microsoft pueden dar más problemas.
+viene instalado desde el inicio. Sin embargo, para Windows deberás instalarlo desde [aquí](https://www.python.org/downloads/windows/). La versión 2.7 ha funcionado bien en los equipos con Ubuntu 16.04 y IOS X El Capitan y Sierra, pero es posible 
+que te enfrentes con retos que pueden quitarte el sueño, no te desesperes y consulta los grupos de discusión; no obstante, 
+en mi experiencia (corta con windows), los sistemas de Microsoft pueden dar más problemas. Por cierto, es posible que alcancemos 
+a explorar (Visual Puthon)[http://vpython.org/], no olvides instalarlo.
 
 ### Gnuplot
 
