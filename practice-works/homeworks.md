@@ -2,9 +2,10 @@
 # Considera que están en orden descendente (arriba-abajo van de mayor a menor)
 
 6 Considera el ejemplo 15.5 página 92 del documento guión del curso.
- 6.1 Implementa documentación interna.
- 6.2 Realiza las operaciones en tu cuaderno con tres números aleatorios (dados por el usuario desde la terminal). Comprueba las operaciones convirtiendo de sistema decimal a sistema binario.
- 6.3 Implementa la salida en un archivo externo.
+
+  * Implementa documentación interna.
+  * Realiza las operaciones en tu cuaderno con tres números aleatorios (dados por el usuario desde la terminal). Comprueba las operaciones convirtiendo de sistema decimal a sistema binario.
+  * Implementa la salida en un archivo externo.
 
 
 5 Suponga que una tarjeta de adquisición de datos que proporciona una
