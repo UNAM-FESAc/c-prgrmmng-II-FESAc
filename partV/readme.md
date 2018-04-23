@@ -14,7 +14,9 @@ desde el código fuente) alguna aplicación o software, por esta razón deberá 
 Este es un sistema de composición de documentos (hay mucha información en la red sobre LateX, el estudiante deberá leerla). Recomiendo instalar [TeXworks](https://www.tug.org/texworks/).
 
 Existe la opción de trabajar en línea; sin embargo, tendrás estar sometido a todos los imponderables que 
-surja, lo bueno es que tendrás tus documentos en todo momento. Aquí la herramiento [ShareLatex](https://es.sharelatex.com/)
+surja, lo bueno es que tendrás tus documentos en todo momento. Aquí la herramiento [ShareLatex](https://es.sharelatex.com/).
+Aquí puedes ver un [ejemplo](https://es.sharelatex.com/3344188239jftcmbgbqvqr).
+
 
 #### Para instalar desde linux: 
 sudo apt-get insall texlive-full
