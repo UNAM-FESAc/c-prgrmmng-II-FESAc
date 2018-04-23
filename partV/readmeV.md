@@ -11,7 +11,10 @@ desde el código fuente) alguna aplicación o software, por esta razón deberá 
 
 ### LaTeX
 
-Este es un sistema de composición de documentos (hay mucha información en la red sobre LateX, el estudiante deberá leerla). Recomiendo instalar [TeXworks](https://www.tug.org/texworks/)
+Este es un sistema de composición de documentos (hay mucha información en la red sobre LateX, el estudiante deberá leerla). Recomiendo instalar [TeXworks](https://www.tug.org/texworks/).
+
+Existe la opción de trabajar en línea; sin embargo, tendrás estar sometido a todos los imponderables que 
+surja, lo bueno es que tendrás tus documentos en todo momento. Aquí la herramiento [ShareLatex](https://es.sharelatex.com/)
 
 #### Para instalar desde linux: 
 sudo apt-get insall texlive-full
