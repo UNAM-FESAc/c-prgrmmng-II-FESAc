@@ -41,7 +41,7 @@ En sistemas operativos UNIX (el estudiante deberá leer un poco más sobre la hi
 viene instalado desde el inicio. Sin embargo, para Windows deberás instalarlo desde [aquí](https://www.python.org/downloads/windows/). La versión 2.7 ha funcionado bien en los equipos con Ubuntu 16.04 y IOS X El Capitan y Sierra, pero es posible 
 que te enfrentes con retos que pueden quitarte el sueño, no te desesperes y consulta los grupos de discusión; no obstante, 
 en mi experiencia (corta con windows), los sistemas de Microsoft pueden dar más problemas. Por cierto, es posible que alcancemos 
-a explorar [Visual Python](http://vpython.org/), no olvides instalarlo.
+a explorar [Visual Python](http://vpython.org/), no olvides instalarlo. [Aquí](http://www.vpython.org/contents/docs/VPython_Intro.pdf) encuentras un manual.
 
 Hay varios sitios manuales, videos, etc. que comparten material sobre Python, te dejo algunos videos y sitios para que los 
 revises: 
@@ -54,7 +54,7 @@ revises:
 * [Codecademy](https://www.codecademy.com/es/learn/learn-python) y (https://www.codecademy.com/learn/learn-python)
 * [Codementor](https://www.codementor.io/collections/learn-python-bwbc63ulz)
 
-En la sigueinte liga, tienes un gestor de paquetes para R y Python [Anaconda](https://www.anaconda.com/download/#linux).
+En la siguiente liga, tienes un gestor de paquetes para R y Python [Anaconda](https://www.anaconda.com/download/#linux).
 
 
 
