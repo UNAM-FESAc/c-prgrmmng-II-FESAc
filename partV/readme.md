@@ -1,4 +1,4 @@
-# Graficación básica en C
+# Graficación básica en (C) LaTeX, Python, gnuplot y Mathematica Wolfram. 
 ## Instrucciones para instalar software y paquetes
 
 En esta parte se encuentran instrucciones para instalar paquetes que se usarán 
