@@ -1,6 +1,12 @@
 ## En este archivo encuentras las tareas de práctica para casa.
 # Considera que están en orden descendente (arriba-abajo van de mayor a menor)
 
+7 Simulacion de un sistema de dos cuerpos.
+Ejericio:
+ - Complementa la simulación del ejercicio 03-graph-python2.py con otros planetas del sistemas solar. Considera las leyes fisicas. Implementa rotacion y traslacion.
+ -  Implementa una descripcion en un widget (o documento externo). Explica las leyes que rigen la naturaleza.
+
+
 6 Considera el ejemplo 15.5 página 92 del documento guión del curso.
 
   * Implementa documentación interna.
