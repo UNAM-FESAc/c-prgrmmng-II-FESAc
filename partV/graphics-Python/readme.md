@@ -1,4 +1,4 @@
-# Some tools to graph on Python
+# Some tools to graph in Python
 
 Puedes revisar algunos sitios que te ayudarán al desarrollo de 
 - [widgets1](http://jupyter.org/widgets)
