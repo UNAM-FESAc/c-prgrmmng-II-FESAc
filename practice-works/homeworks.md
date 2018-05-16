@@ -24,6 +24,7 @@ estado 17 para Su nombre completo.
 4 Realiza una investigacion sobre archivos binarios, implementa funciones, y escribe un codigo 
     que realice una tarea especifica. Escribe un reporte y coloca, el archivo fuente y el PDF, 
     en tu repositorio.
+    
 3 Realiza un o mas programas que implementen y expliquen las funciones fwrite, fread, y fseek 
     No olvides subirlo a tu repositorio.
 
