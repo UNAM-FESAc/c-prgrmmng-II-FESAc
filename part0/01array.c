@@ -1,3 +1,6 @@
+// This program is all about to creat an array
+
+
 /* 
 Arreglos bidimensionales
 
